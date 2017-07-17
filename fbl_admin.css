@@ -1,0 +1,13 @@
+#preview_wrapper {
+	height: 0;
+	position: relative;
+}
+#preview_area {
+	position: absolute;
+	right: 0px;
+	width: 350px;
+	overflow: hidden;
+}
+#preview_container {
+	position: relative;
+}
